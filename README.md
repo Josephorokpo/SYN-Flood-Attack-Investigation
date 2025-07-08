@@ -2,6 +2,8 @@
 Analyzed network traffic data from a simulated SYN flood attack causing a web server outage for a travel agency. This project demonstrates incident identification, packet analysis, and initial mitigation strategies for Denial-of-Service attacks.
 
 
+INTRODUCTION
+
 SYN Flood Attack Analysis and Incident Response
 Project Introduction
 This project details the investigation of a simulated cybersecurity incident involving a significant service interruption on a travel agency's website. As a security analyst, I identified the root cause of the outage, analyzed its impact, and formulated initial response actions. This exercise demonstrates practical skills in incident identification, network traffic analysis, and preliminary mitigation strategies for common network attacks.
@@ -31,7 +33,7 @@ This activity reinforced the importance of:
 
 Rapidly identifying attack types from network traffic patterns.
 
-Understanding the TCP three-way handshake and how its disruption leads to service denial.
+Understanding the TCP three-way handshake and how its disruption leads to denial of service.
 
 The immediate need for containment and preliminary mitigation during an active incident.
 
